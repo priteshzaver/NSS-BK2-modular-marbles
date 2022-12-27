@@ -1,0 +1,1 @@
+The purpose of this project is the introduction of writing code in modules. Exporting and importing functions to other pages within the directory.
